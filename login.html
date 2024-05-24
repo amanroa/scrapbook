@@ -17,7 +17,7 @@
         
         <br> 
         
-        <button type="submit" onClick=validate()>Enter</button>
+        <button id="send" type="submit" onClick=validate()>Enter</button>
       </div>
     </form>
     <script type="text/javascript">
@@ -27,6 +27,7 @@
           {
               alert( "validation succeeded" );
               location.href="index.html";
+              document.getElementById("send").style.color = "red";
           }
           else
           {
