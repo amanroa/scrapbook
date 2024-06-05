@@ -14,10 +14,9 @@
       <div class="mainContainer">
         <label for="pswrd">Secret password</label>
         <input type="password" placeholder="Enter Password" id="pswrd" name="pswrd" required>
-        
         <br> 
-        
         <button id="send" type="submit" onClick=validate()>Enter</button>
+        <div id="message"></div>
       </div>
     </form>
     <script type="text/javascript">
@@ -26,13 +25,14 @@
         event.preventDefault();
         const password = document.getElementById('pswrd').value;
         const correctPassword = 'sweetpeadumple';
+        const messageDiv = document.getElementById('message');
         if(password === correctPassword)
         {
-            document.getElementById("send").style.color = "red";
+            window.location.href = 'index.html';
         }
         else
         {
-            document.getElementById("send").style.color = "blue";
+             messageDiv.textContent = 'Incorrect password, please try again!';
         }
       }
     </script>
