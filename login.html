@@ -23,16 +23,16 @@
     <script type="text/javascript">
       function validate()
       {
-          if(document.getElementById("pswrd").value == "sweetpeadumple")
-          {
-              document.getElementById("send").style.color = "red";
-              alert( "validation succeeded" );
-              location.href="index.html";
-          }
-          else
-          {
-              alert( "validation failed" );
-          }
+        const password = document.getElementById('pswrd').value;
+        const correctPassword = 'sweetpeadumple';
+        if(password == correctPassword)
+        {
+            document.getElementById("send").style.color = "red";
+        }
+        else
+        {
+            document.getElementById("send").style.color = "blue";
+        }
       }
     </script>
   </body>
