@@ -1,1 +1,16 @@
+.h1 { 
+	font-family: Optima,Segoe,Segoe UI,Candara,Calibri,Arial,sans-serif; 
+  font-size: 2em;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
 
+.h2 {
+  font-family: Optima,Segoe,Segoe UI,Candara,Calibri,Arial,sans-serif; 
+  font-size: 1.5em;
+  text-align: center;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
