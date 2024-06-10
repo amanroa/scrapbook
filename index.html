@@ -6,19 +6,21 @@
           href="style.css">
   </head>
   <body>
-    <form action="" onsubmit="return validate(event)">
-      <div class="headingContainer">
-        <h3>Enter the secret password:</h3>
-      </div>
-
-      <div class="mainContainer">
-        <label for="pswrd">Secret password</label>
-        <input type="password" placeholder="Enter Password" id="pswrd" name="pswrd" required>
-        <br> 
-        <button id="send" type="submit" onClick=validate()>Enter</button>
-        <div id="message"></div>
-      </div>
-    </form>
+    <center>
+      <form action="" onsubmit="return validate(event)">
+        <div class="headingContainer">
+          <h3>Enter the secret password:</h3>
+        </div>
+  
+        <div class="mainContainer">
+          <label for="pswrd">Secret password</label>
+          <input type="password" placeholder="Enter Password" id="pswrd" name="pswrd" required>
+          <br> 
+          <button id="send" type="submit" onClick=validate()>Enter</button>
+          <div id="message"></div>
+        </div>
+      </form>
+    </center>
     <script type="text/javascript">
       function validate()
       {
