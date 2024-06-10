@@ -8,14 +8,16 @@
   <body>
     <center>
       <form action="" onsubmit="return validate(event)">
-        <div class="headingContainer">
+        <div class="h1">
           <h3>Enter the secret password:</h3>
         </div>
   
-        <div class="mainContainer">
+        <div class="h2">
           <label for="pswrd">Secret password</label>
           <input type="password" placeholder="Enter Password" id="pswrd" name="pswrd" required>
+          
           <br> 
+          
           <button id="send" type="submit" onClick=validate()>Enter</button>
           <div id="message"></div>
         </div>
