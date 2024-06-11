@@ -37,8 +37,8 @@ function initSlideshow() {
         
         const imgElement = document.createElement('img');
         imgElement.src = image;
-        imgElement.style.width = 'auto';
-        imgElement.style.height = '80%'; // Maintain aspect ratio
+        imgElement.style.width = '80%';
+        imgElement.style.height = 'auto'; // Maintain aspect ratio
         imgElement.id = `image${index + 1}`;
         
         slideDiv.appendChild(imgElement);
