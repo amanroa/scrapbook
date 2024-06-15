@@ -33,7 +33,7 @@ const messages = [
   //first page
   "Our First Date!!!!",
   //second page
-  "We met outside of Swem on the patio for our coloring date. I was very nervous to meet the most gorgeous girl ever!<br>Aashni's is on the left and mine is on the right.",
+  "We met outside of Swem on the patio for our coloring date. I was very nervous to meet the most gorgeous girl ever! Aashni's is on the left and mine is on the right.",
   //third page
   "This date was wonderful! It was going so well that when it started to rain we went inside to keep talking and coloring. When we had to leave it was a full on downpour and we had to run back to Sadler. And all I knew at the end was that I had to have another date with her!",
   "We went to the beach! It was so much fun, but the water was incredibly cold. Because I was with Aashni. On the drive back it rained really hard, so from then on I will always drive Aashni around.",
@@ -41,24 +41,24 @@ const messages = [
   "Message for image 5",
   "Message for image 6",
   "Message for image 7",
-  'Message for image 8",
-  'Message for image 9",
-  'Message for image 10",
-  'Message for image 11",
-  'Message for image 12",
-  'Message for image 13",
-  'Message for image 14",
-  'Message for image 15",
-  'Message for image 16",
-  'Message for image 17",
-  'Message for image 18",
-  'Message for image 19",
-  'Message for image 20",
-  'Message for image 21",
-  'Message for image 22",
-  'Message for image 23",
-  'Message for image 24",
-  'Message for image 25"
+  "Message for image 8",
+  "Message for image 9",
+  "Message for image 10",
+  "Message for image 11",
+  "Message for image 12",
+  "Message for image 13",
+  "Message for image 14",
+  "Message for image 15",
+  "Message for image 16",
+  "Message for image 17",
+  "Message for image 18",
+  "Message for image 19",
+  "Message for image 20",
+  "Message for image 21",
+  "Message for image 22",
+  "Message for image 23",
+  "Message for image 24",
+  "Message for image 25"
 ];
 
 // Initialize slideshow and rotation data
