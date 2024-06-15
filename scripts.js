@@ -1,7 +1,7 @@
 let slideIndex = 0;
 let rotations = [];
 const images = [
-  'The first date!!',
+  'images/Business-images-0.jpg',
   'images/Business-images-1.jpg',
   'images/Business-images-2.jpg',
   'images/Business-images-3.jpg',
