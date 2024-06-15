@@ -29,6 +29,35 @@ const images = [
   'images/Business-images-25.jpg'
 ];
 
+const messages = [
+  'Message for image 0',
+  'Message for image 1',
+  'Message for image 2',
+  'Message for image 3',
+  'Message for image 4',
+  'Message for image 5',
+  'Message for image 6',
+  'Message for image 7',
+  'Message for image 8',
+  'Message for image 9',
+  'Message for image 10',
+  'Message for image 11',
+  'Message for image 12',
+  'Message for image 13',
+  'Message for image 14',
+  'Message for image 15',
+  'Message for image 16',
+  'Message for image 17',
+  'Message for image 18',
+  'Message for image 19',
+  'Message for image 20',
+  'Message for image 21',
+  'Message for image 22',
+  'Message for image 23',
+  'Message for image 24',
+  'Message for image 25'
+];
+
 // Initialize slideshow and rotation data
 function initSlideshow() {
     const slideshowContainer = document.getElementById('slideshow-container');
@@ -44,7 +73,7 @@ function initSlideshow() {
         
         slideDiv.appendChild(imgElement);
         slideshowContainer.appendChild(slideDiv);
-
+      
         // Initialize rotation for each image
         rotations.push(0);
     });
@@ -67,6 +96,7 @@ function showSlides(n) {
         slides[i].style.display = 'none';
     }
     slides[slideIndex].style.display = 'block';
+    document.getElementById('message-container').textContent = messages[slideIndex];
 }
 
 function rotateImage(degrees) {
