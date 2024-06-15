@@ -31,7 +31,8 @@ const images = [
 
 const messages = [
   'First Date!!!!',
-  'Message for image 1',
+  'We met outside of Swem on the patio for our coloring date. Sweet pea thought we were going to do homework until I pulled out our coloring sheets.
+  I was extremely anxious because I wanted to make a good impression on the most gorgeous girl I had ever seen',
   'Message for image 2',
   'Message for image 3',
   'Message for image 4',
