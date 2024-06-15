@@ -30,11 +30,8 @@ const images = [
 ];
 
 const messages = [
-  <!-- Page 1 -->
   'Our First Date!!!!',
-  <! –– Page 2-->
   'We met outside of Swem on the patio for our coloring date. I was very nervous to meet the most gorgeous girl ever! Aashnis is on the left and mine is on the right',
-  <! –– Page 3 -->
   'The date was amazing! It was going so well that when it started to rain we went inside to keep talking and coloring. When we had to leave it was a full on downpour and we had to run back to Sadler. And all I knew at the end was that I had to have another date with her!',
   'Message for image 3',
   'Message for image 4',
