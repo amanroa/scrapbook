@@ -30,16 +30,21 @@ const images = [
 ];
 
 const messages = [
-  //first page
+  //page 1
   "Our First Date!!!!",
-  //second page
+  //page 2
   "We met outside of Swem on the patio for our coloring date. I was very nervous to meet the most gorgeous girl ever! Aashni's is on the left and mine is on the right.",
-  //third page
-  "This date was wonderful! It was going so well that when it started to rain we went inside to keep talking and coloring. When we had to leave it was a full on downpour and we had to run back to Sadler. And all I knew at the end was that I had to have another date with her! Which we did! Our second date was going to get boba at secret garden and then walking around Williamsburg",
+  //page 3
+  "This date was wonderful! It was going so well that when it started to rain we went inside to keep talking and coloring. When we had to leave it was a full on downpour and we had to run back to Sadler. And all I knew at the end was that I had to have another date with her! "\n"Which we did! Our second date was boba at secret garden and then walking around Williamsburg",
+  //page 4
   "We went to the beach! It was so much fun, but the water was incredibly cold. Because I was with Aashni. On the drive back it rained really hard, so from then on I will always drive Aashni around.",
+  //page 5
   "Message for image 4",
+  //page 6
   "Message for image 5",
+  //page 7
   "Message for image 6",
+  //page 8
   "Message for image 7",
   "Message for image 8",
   "Message for image 9",
