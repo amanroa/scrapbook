@@ -30,7 +30,7 @@ const images = [
 ];
 
 const messages = [
-  'Message for image 0',
+  'First Date!!!!',
   'Message for image 1',
   'Message for image 2',
   'Message for image 3',
