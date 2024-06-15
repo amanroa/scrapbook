@@ -25,7 +25,8 @@ const images = [
   'images/Business-images-21.jpg',
   'images/Business-images-22.jpg',
   'images/Business-images-23.jpg',
-  'images/Business-images-24.jpg'
+  'images/Business-images-24.jpg',
+  'images/Business-images-25.jpg'
 ];
 
 // Initialize slideshow and rotation data
