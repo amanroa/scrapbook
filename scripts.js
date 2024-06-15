@@ -37,7 +37,7 @@ const messages = [
   //third page
   'The date was amazing! It was going so well that when it started to rain we went inside to keep talking and coloring. When we had to leave it was a full on downpour and we had to run back to Sadler. 
   And all I knew at the end was that I had to have another date with her!',
-  'Message for image 3',
+  'We went to the beach! It was so much fun, I even managed to take a nap and not feel sick after. Because I was with Aashni :). On the drive back it rained really hard, so from then on I will always drive Aashni around.',
   'Message for image 4',
   'Message for image 5',
   'Message for image 6',
