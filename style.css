@@ -35,6 +35,7 @@ body {
 }
 
 .message-container{
+	font-family: Arial Narrow, sans-serif;
    	margin: auto;
 	display: flex;
         justify-content: center; /* Center horizontally */
