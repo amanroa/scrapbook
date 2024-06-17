@@ -50,7 +50,7 @@ const messages = [
   "The flowers I had to get for the smartest girl!",
   "My mom came down for dinner and Jamestown christmas event. Aashni was with us and it was so much fun! The third trolls movie came out and we just HAD to go see it.",
   "During winter break Aashni and I wrote letters to each other! Her's got lost in the mail for a bit, but it did finally come",
-  "Aashni's postcard was all the way from the Grand Canyon. Mine is from Winterthur of the gardens",
+  "Aashni's postcard was all the way from the Grand Canyon. Mine is from the gardens of Winterthur",
   "Some flowers for Aashni's last FDOC!",
   "Aashni's message for me in her postcard!",
   "After begging Aashni to go pottery painting for sooo long we finally went! She painted a beautiful little plate for jewelry and I did a little vase. The lady there liked our pottery equally. We also went ice skating at the little Williamsburg rink they put up!",
