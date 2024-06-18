@@ -63,7 +63,7 @@ const messages = [
   // page 16
   "After begging Aashni to go pottery painting for sooo long we finally went! She painted a beautiful little plate for jewelry and I did a little vase. We also went ice skating at the little Williamsburg rink they put up!",
   // page 17
-  "Valentines Day! It was on a weekday and we still had to go to kevin's class. But after we got ready to go out and eat dinner at PF Changs. The lettuce wraps were amazing and Aashni looked gorgeous!",
+  "Valentines Day! It was on a weekday and we still had to go to kevin's class. But after we got ready to go out and eat dinner at PF Changs. The lettuce wraps were amazingly free and Aashni looked gorgeous!",
   // page 18
   "I got her little lego figures that look like us, a box of chocolates, a note and the flowers on the last page! She got me a super thoughtful coupon book!",
   // page 19
@@ -71,7 +71,7 @@ const messages = [
   // page 20
   "To celebrate 11 months and easter we got breakfast/brunch at first watch! She got french toast, I got pancakes and we shared homefries with a fancy juice. We may or may not have stolen a little ramekin. Also some nice spring flowers for the girl prettier than spring itself!",
   // page 21
-  "On the day of the Solar Eclipse we got out of Kevin's class early and managed to grab the last of the solar glasses. It was incredible and there won't be another one for 20 years. But Aashni and I will go to watch that one as well! We also went on a park date where we swang on the swings, went on a zipline we weren't allowed on, and spun on a very fast turtle",
+  "On the day of the Solar Eclipse we got out of Kevin's class early and managed to grab the last of the solar glasses. It was incredible and there won't be another one for 20 years. But Aashni and I will go to watch that one as well! We also went on a park date where we swang on the swings, went on a zipline we weren't allowed on, and spun on a very fast turtle and leaf",
   // page 22
   "Message for image 21",
   // page 23
