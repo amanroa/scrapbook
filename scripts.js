@@ -35,34 +35,52 @@ const messages = [
   //page 2
   "We met outside of Swem on the patio for our coloring date. I was very nervous to meet the most gorgeous girl ever! Aashni's is on the left and mine is on the right.",
   //page 3
-  "This date was wonderful! It was going so well that when it started to rain we went inside to keep talking and coloring. When we had to leave it was a full on downpour and we had to run back to Sadler. And all I knew at the end was that I had to have another date with her! Which we did! Our second date was boba at secret garden and then walking around Williamsburg. Our third date was going to see Guardians of the Galaxy 3",
+  "This first date was wonderful! It was going so well that when it started to rain we went inside to keep talking and coloring. When we had to leave it was a full on downpour and we had to run back to Sadler. And all I knew at the end was that I had to have another date with her! Which we did! Our second date was boba at secret garden and then walking around Williamsburg. Our third date was going to see Guardians of the Galaxy 3",
   //page 4
   "We went to the beach! It was so much fun, but the water was incredibly cold. On the drive back it rained really hard, so from then on I will always drive Aashni around. These were the flowers I got for Aashni when I was able to see her again in New York since sooooo long!",
   //page 5
-  "We had so much fun in New York! We walked around the entire city, got bagels for breakfast, pizza and garlic rolls for a little lunch, and then a fancy dinner at Tao's. Our next date that summer was in New Jersey when we went to the New Jersey State Planetarium.",
+  "We had so much fun in New York! We walked around the entire city, got bagels for breakfast, pizza and garlic rolls for a little lunch, and then a fancy dinner at Tao's. Our next date that summer was in New Jersey when we went to the New Jersey State Planetarium. It was the first time that I was ever in a planetarium, but I was too distracted by the stars in Aashni's eyes.",
   //page 6
-  "First flowers back in Williamsburg for welcome back and FDOC! The other flowers are for Aashni before she left for Grace Hopper.",
+  "First flowers back in Williamsburg for welcome back and FDOC! The other flowers are for Aashni before she left for Grace Hopper, because I was going to miss her so much! Also, as good luck before she went looking for a job!",
   //page 7
-  "Some gifts for Aashni after fall break. Such a long time to go without my sweet heart. We went to the pumpkin farm Pumpkinville to pick pumpkins and go on a hay ride!",
+  "Some wrapping from gifts I got for Aashni after fall break. Such a long time to go without my sweet heart. We went to the pumpkin farm Pumpkinville to pick pumpkins and go on a hay ride! I can't wait to do this every year together.",
   //page 8
-  "Aashni got a job offer for Capital One! A real big job so she got some nice flowers to match and celebrate! We soon had our sixth month anniversary. The happiest six months of my life! On the weekend on we did a at-home spa day",
-  "Syndicate Performance! It was so amazing, I never saw any better dancing than Aashni's. Aashni was then also awarded with the PBK award for being the smartest ever!",
+  "Aashni got a job offer for Capital One! A big job so I got her some nice flowers to match capital one colors and celebrate! We soon had our sixth month anniversary. The happiest six months of my life! I got her smooches, she got me fancy cologne and on the weekend on we did a at-home spa day",
+  // page 9
+  "Syndicate Performance! It was so amazing, I never saw any better dancing than Aashni's. Aashni was then also awarded with joining PBK for being the smartest ever! She is just so amazing",
+  // page 10
   "The flowers I had to get for the smartest girl!",
-  "My mom came down for dinner and Jamestown christmas event. Aashni was with us and it was so much fun! The third trolls movie came out and we just HAD to go see it.",
-  "During winter break Aashni and I wrote letters to each other! Her's got lost in the mail for a bit, but it did finally come",
-  "Aashni's postcard was all the way from the Grand Canyon. Mine is from the gardens of Winterthur",
-  "Some flowers for Aashni's last FDOC!",
-  "Aashni's message for me in her postcard!",
-  "After begging Aashni to go pottery painting for sooo long we finally went! She painted a beautiful little plate for jewelry and I did a little vase. The lady there liked our pottery equally. We also went ice skating at the little Williamsburg rink they put up!",
+  // page 11
+  "Aashni, my mom and I went out for dinner and a Jamestown christmas event. The third trolls movie came out and we just HAD to go see it.",
+  // page 12
+  "During winter break Aashni and I wrote letters to each other! Her's got lost in the mail for a bit, but it did finally come so my excitement was even greater. It made me so happy and I really enjoyed exchanging love letters.",
+  // page 13
+  "Aashni's postcard was all the way from the Grand Canyon. Mine is from the gardens at Winterthur. I hope I can take her there one day and that we both can go on a vacation to the grand canyon, or anywhere!",
+  // page 14
+  "Some flowers for Aashni's last FDOC! To celebrate so many years of hard work, and one last semester of classes!",
+  // page 15
+  "Aashni's message for me in her postcard! Just so sweet",
+  // page 16
+  "After begging Aashni to go pottery painting for sooo long we finally went! She painted a beautiful little plate for jewelry and I did a little vase. We also went ice skating at the little Williamsburg rink they put up!",
+  // page 17
   "Valentines Day! It was on a weekday and we still had to go to kevin's class. But after we got ready to go out and eat dinner at PF Changs. The lettuce wraps were amazing and Aashni looked gorgeous!",
-  "I got her little lego figures that look like us, a box of chocolates, a note and the flowers on the last page!",
-  "Message for image 18",
-  "Message for image 19",
+  // page 18
+  "I got her little lego figures that look like us, a box of chocolates, a note and the flowers on the last page! She got me a super thoughtful coupon book!",
+  // page 19
+  "It had been a little while since I last got Aashni flowers, and it doesn't have to be a special event to get her flowers. She deserves them all the time! I turned 21 and Aashni took me out to bars once my wallet finally arrived. March was roaring like a lion but we still went out and had so much fun!",
+  // page 20
+  "To celebrate 11 months and easter we got breakfast/brunch at first watch! She got french toast, I got pancakes and we shared homefries with a fancy juice. We may or may not have stolen a little ramekin. Also some nice spring flowers for the girl prettier than spring itself!",
+  // page 21
   "Message for image 20",
+  // page 22
   "Message for image 21",
+  // page 23
   "Message for image 22",
+  // page 24
   "Message for image 23",
+  // page 25
   "Message for image 24",
+  // page 26
   "Message for image 25"
 ];
 
