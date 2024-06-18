@@ -67,11 +67,11 @@ const messages = [
   // page 18
   "I got her little lego figures that look like us, a box of chocolates, a note and the flowers on the last page! She got me a super thoughtful coupon book!",
   // page 19
-  "It had been a little while since I last got Aashni flowers, and it doesn't have to be a special event to get her flowers. She deserves them all the time! I turned 21 and Aashni took me out to bars once my wallet finally arrived. March was roaring like a lion but we still went out and had so much fun!",
+  "It had been a little while since I last got Aashni flowers, and it doesn't have to be a special event to get her flowers. She deserves them all the time! I turned 21 and Aashni took me out to bars once I finally got my wallet back. March was roaring like a lion but we still went out and had so much fun!",
   // page 20
   "To celebrate 11 months and easter we got breakfast/brunch at first watch! She got french toast, I got pancakes and we shared homefries with a fancy juice. We may or may not have stolen a little ramekin. Also some nice spring flowers for the girl prettier than spring itself!",
   // page 21
-  "Message for image 20",
+  "On the day of the Solar Eclipse we got out of Kevin's class early and managed to grab the last of the solar glasses. It was incredible and there won't be another one for 20 years. But Aashni and I will go to watch that one as well! We also went on a park date where we swang on the swings, went on a zipline we weren't allowed on, and spun on a very fast turtle",
   // page 22
   "Message for image 21",
   // page 23
