@@ -73,15 +73,15 @@ const messages = [
   // page 21
   "On the day of the Solar Eclipse we got out of Kevin's class early and managed to grab the last of the solar glasses. It was incredible and there won't be another one for 20 years. But Aashni and I will go to watch that one as well! We also went on a park date where we swang on the swings, went on a zipline we weren't allowed on, and spun on a very fast turtle and leaf",
   // page 22
-  "Message for image 21",
+  "We made Stuffles! For fillings we had chocolate chips, biscoff cookie butter, strawberries, bananas and cheese for savory ones. Syndicate performance!!! Aashni choreographed her own entire dance! The best of the night, she did it in heels making it even harder",
   // page 23
-  "Message for image 22",
+  "I had to outdo myself with flowers for this syndicate showcase. Not only because last time my flowers were insulted, but this was her last performance. The best of the all! We had our one year anniversary!!!! We woke up super early to watch the sunrise at Yorktown beach. When we go there we watched the sunrise, opened presents and skipped rocks. I got her some lego flowers, a lighter and some crocheted peas! She got me a fancy candle, a bracelet and some dumpling shakers! It was so lovely, and I cant wait for the next year, and the next, and the next and for forever",
   // page 24
-  "Message for image 23",
+  "Anniversary flowers! Aashni and I celebrated LDOC together! We went out to ring the bell, get free shirts, have some drinks at the beer garden and run through a bouncy obstacle course",
   // page 25
-  "Message for image 24",
+  "Senior Dance! I usually don't enjoy dances, but being there with Aashni made it not only worth it but so much fun! We were inthe sunken garden, so the rain from sometime earlier made it more of a muddy swamp pit which was funny. Luckily I was still able to find my love despite so many people being there. ",
   // page 26
-  "Message for image 25"
+  "The start of graduation! This was the Khatalampay ceremony where she got a fancy stole. The computer science graduation was in the fancy PBK "
 ];
 
 // Initialize slideshow and rotation data
