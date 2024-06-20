@@ -75,13 +75,13 @@ const messages = [
   // page 22
   "We made Stuffles! For fillings we had chocolate chips, biscoff cookie butter, strawberries, bananas and cheese for savory ones. Syndicate performance!!! Aashni choreographed her own entire dance! The best of the night, she did it in heels making it even harder",
   // page 23
-  "I had to outdo myself with flowers for this syndicate showcase. Not only because last time my flowers were insulted, but this was her last performance. The best of the all! We had our one year anniversary!!!! We woke up super early to watch the sunrise at Yorktown beach. When we go there we watched the sunrise, opened presents and skipped rocks. I got her some lego flowers, a lighter and some crocheted peas! She got me a fancy candle, a bracelet and some dumpling shakers! It was so lovely, and I cant wait for the next year, and the next, and the next and for forever",
+  "I had to outdo myself with flowers for this syndicate showcase. Not only because last time my flowers were dissed, but this was her last performance. The best of the all! We had our one year anniversary!!!! We woke up super early to watch the sunrise at Yorktown beach. When we got there we watched the sunrise, opened presents and skipped shells/rocks. I got her some lego flowers, a lighter and some crocheted peas! She got me a fancy candle, a bracelet and some dumpling shakers! It was so lovely, and I cant wait for the next year, and the next, and the next and for forever",
   // page 24
-  "Anniversary flowers! Aashni and I celebrated LDOC together! We went out to ring the bell, get free shirts, have some drinks at the beer garden and run through a bouncy obstacle course",
+  "Anniversary flowers! Aashni and I celebrated LDOC together! We went out to ring the bell, get free shirts, tacobell, have some drinks at the beer garden and run through a bouncy obstacle course",
   // page 25
-  "Senior Dance! I usually don't enjoy dances, but being there with Aashni made it not only worth it but so much fun! We were inthe sunken garden, so the rain from sometime earlier made it more of a muddy swamp pit which was funny. Luckily I was still able to find my love despite so many people being there. ",
+  "Senior Dance! I usually don't enjoy dances, but being there with Aashni made it not only worth it but so much fun! We were inthe sunken garden, so the rain from sometime earlier made it more of a muddy swamp pit which was funny. Luckily I was still able to find my love despite so many people being there. We also took some photo booth pictures",
   // page 26
-  "The start of graduation! This was the Khatalampay ceremony where she got a fancy stole. The computer science graduation was in the fancy PBK "
+  "The start of graduation! This was the Khatalampay ceremony where she got a fancy stole. The computer science graduation was in the fancy PBK theatre and I had a wonderful conversation with dada. "
 ];
 
 // Initialize slideshow and rotation data
