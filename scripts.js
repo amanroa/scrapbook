@@ -26,7 +26,10 @@ const images = [
   'images/Business-images-22.jpg',
   'images/Business-images-23.jpg',
   'images/Business-images-24.jpg',
-  'images/Business-images-25.jpg'
+  'images/Business-images-25.jpg',
+  'images/Business-images-26.jpg',
+  'images/Business-images-27.jpg',
+  'images/Business-images-28.jpg'
 ];
 
 const messages = [
@@ -81,7 +84,13 @@ const messages = [
   // page 25
   "Senior Dance! I usually don't enjoy dances, but being there with Aashni made it not only worth it but so much fun! We were inthe sunken garden, so the rain from sometime earlier made it more of a muddy swamp pit which was funny. Luckily I was still able to find my love despite so many people being there. We also took some photo booth pictures",
   // page 26
-  "The start of graduation! This was the Khatalampay ceremony where she got a fancy stole. The computer science graduation was in the fancy PBK theatre and I had a wonderful conversation with dada. "
+  "The start of graduation! This was the Khatalampay ceremony where she got a fancy stole. The computer science graduation was in the fancy PBK theatre and I had a wonderful conversation with dada. ",
+  // page 27
+  " ",
+  // page 28
+  " ",
+  // page 29
+  " "
 ];
 
 // Initialize slideshow and rotation data
