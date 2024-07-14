@@ -86,11 +86,11 @@ const messages = [
   // page 26
   "The start of graduation! This was the Khatalampay ceremony where she got a fancy stole. The computer science graduation was in the fancy PBK theatre and I had a wonderful conversation with dada. ",
   // page 27
-  " ",
+  "Ooohhh man, she's graduating!!! I am so amazingly proud of Aashni graduating with not just one but majors and the world's highest GPA ever!",
   // page 28
-  " ",
+  "Some special graduations flowers just for the most amazing WM graduate there ever lived. Way better than Remy and Cruella DeVil",
   // page 29
-  " "
+  "She was not just in the book once. Not just twice. But THREE whole times!!! Absolutly so amazing and I am so lucky that I was able to stay for all of these ceremonies. I also got her some fancy gifts to celebrate this huge event!"
 ];
 
 // Initialize slideshow and rotation data
