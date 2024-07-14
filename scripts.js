@@ -88,9 +88,9 @@ const messages = [
   // page 27
   "Ooohhh man, she's graduating!!! I am so amazingly proud of Aashni graduating with not just one but majors and the world's highest GPA ever!",
   // page 28
-  "Some special graduations flowers just for the most amazing WM graduate there ever lived. Way better than Remy and Cruella DeVil",
+  "Some special graduations flowers for the most amazing WM graduate and girlfriend there ever lived. Remy and Cruella DeVil can't even compare!",
   // page 29
-  "She was not just in the book once. Not just twice. But THREE whole times!!! Absolutly so amazing and I am so lucky that I was able to stay for all of these ceremonies. I also got her some fancy gifts to celebrate this huge event!"
+  "She was not just in the book once. Not just twice. But THREE whole times!!! Absolutly so amazing and I am so lucky that I was able to stay for all of these ceremonies. I also got her some fancy gifts to celebrate this huge accomplishment!"
 ];
 
 // Initialize slideshow and rotation data
