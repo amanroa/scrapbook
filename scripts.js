@@ -29,7 +29,8 @@ const images = [
   'images/Business-images-25.jpg',
   'images/Business-images-26.jpg',
   'images/Business-images-27.jpg',
-  'images/Business-images-28.jpg'
+  'images/Business-images-28.jpg',
+  'images/Business-images-29.jpg'
 ];
 
 const messages = [
@@ -90,7 +91,9 @@ const messages = [
   // page 28
   "Some special graduations flowers for the most amazing WM graduate and girlfriend there ever lived. Remy and Cruella DeVil can't even compare!",
   // page 29
-  "She was not just in the book once. Not just twice. But THREE whole times!!! Absolutly so amazing and I am so lucky that I was able to stay for all of these ceremonies. I also got her some fancy gifts to celebrate this huge accomplishment!"
+  "She was not just in the book once. Not just twice. But THREE whole times!!! Absolutly so amazing and I am so lucky that I was able to stay for all of these ceremonies. I also got her some fancy gifts to celebrate this huge accomplishment!",
+  // page 30
+  " "
 ];
 
 // Initialize slideshow and rotation data
