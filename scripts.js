@@ -30,7 +30,9 @@ const images = [
   'images/Business-images-26.jpg',
   'images/Business-images-27.jpg',
   'images/Business-images-28.jpg',
-  'images/Business-images-29.jpg'
+  'images/Business-images-29.jpg',
+  'images/Business-images-30.jpg',
+  'images/Business-images-31.jpg'
 ];
 
 const messages = [
@@ -93,6 +95,10 @@ const messages = [
   // page 29
   "She was not just in the book once. Not just twice. But THREE whole times!!! Absolutly so amazing and I am so lucky that I was able to stay for all of these ceremonies. I also got her some fancy gifts to celebrate this huge accomplishment!",
   // page 30
+  " ",
+  // page 31
+  " ",
+  // page 32
   " "
 ];
 
