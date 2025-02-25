@@ -32,7 +32,15 @@ const images = [
   'images/Business-images-28.jpg',
   'images/Business-images-29.jpg',
   'images/Business-images-30.jpg',
-  'images/Business-images-31.jpg'
+  'images/Business-images-31.jpg',
+  'images/Business-images-32.jpg',
+  'images/Business-images-33.jpg',
+  'images/Business-images-34.jpg',
+  'images/Business-images-35.jpg',
+  'images/Business-images-36.jpg',
+  'images/Business-images-37.jpg',
+  'images/Business-images-38.jpg',
+  'images/Business-images-39.jpg'
 ];
 
 const messages = [
