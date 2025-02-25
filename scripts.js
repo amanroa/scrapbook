@@ -107,7 +107,23 @@ const messages = [
   // page 31
   " We met halfway at ikea. We honestly did so much that day, ate some great food: bagels from dunkin, pizza from Brothers, icecream from the Station, and garlic parm fries from you know where, and drove around alot. We went to all the important places as well as Winterthur. I think I took my most favorite photos of Aashni while we were there making it the perfect day.",
   // page 32
-  "We got a great tour on the inside of Winterthur from a professrional along with meeting a lot of people. Some real pretty flowers were in bloom but we did not seem them all. Which means we just have to go back! "
+  "We got a great tour on the inside of Winterthur from a professrional along with meeting a lot of people. Some real pretty flowers were in bloom but we did not seem them all. Which means we just have to go back! ",
+  // page 33
+  " ".
+  // page 34
+  " ".
+  // page 35
+  " ".
+  // page 36
+  " ".
+  // page 37
+  " ".
+  // page 38
+  " ".
+  // page 39
+  " ".
+  // page 40
+  " "
 ];
 
 // Initialize slideshow and rotation data
