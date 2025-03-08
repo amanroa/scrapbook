@@ -109,15 +109,15 @@ const messages = [
   // page 32
   "We got a great tour on the inside of Winterthur from a professrional along with meeting a lot of people. Some real pretty flowers were in bloom but we did not seem them all. Which means we just have to go back! ",
   // page 33
-  " ",
+  "We met halfway down to Richmond and drove together the rest of the way to help set up a few things in Aashni's new apartment! We assembled some stuff and even got a tv. \n It was so much fun we did the same thing again at the end of the month. <br> Excpet this time we spent the entire day in Ikea looking at our potential future rooms, lamps and tables.",
   // page 34
-  " ",
+  "We had to spruce up Aashni's new room so I got her some lego flowers to go into the vase I made her over summer! These flowers are from our CHICKEN FIESTA feast weekend. We got half a chicken, a burrito, chips and dip, yucca and plantains! The next day we went to the farmers market at Bryan Park which is where these flowers are from. Next up was archery and pizza! To end the night we got drinks at Lolita's and ran back to the car through the rain.",
   // page 35
-  " ",
+  "HOMECOMING!! Aashni back in the burg and she agreed to be my homecoming date. We did some hoco activities and also made chicken marsala for dinner. Best of all, almond coco loco for breakfast.",
   // page 36
-  " ",
+  "The following weeked was jam packed wiht activities!",
   // page 37
-  " ",
+  "On a Friday we went to Howl-O-Scream at Busch Gardens! I was finally able to go on all the roller coasters at tha park; toured around by the best guide ever. ",
   // page 38
   " ",
   // page 39
