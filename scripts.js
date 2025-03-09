@@ -109,21 +109,21 @@ const messages = [
   // page 32
   "We got a great tour on the inside of Winterthur from a professrional along with meeting a lot of people. Some real pretty flowers were in bloom but we did not seem them all. Which means we just have to go back! ",
   // page 33
-  "We met halfway down to Richmond and drove together the rest of the way to help set up a few things in Aashni's new apartment! We assembled some stuff and even got a tv. \n It was so much fun we did the same thing again at the end of the month. <br> Excpet this time we spent the entire day in Ikea looking at our potential future rooms, lamps and tables.",
+  "We met halfway down to Richmond and drove together the rest of the way to help set up a few things in Aashni's new apartment! We assembled some stuff and even got a tv. It was so much fun we did the same thing again at the end of the month.  Excpet this time we spent the entire day in Ikea looking at our potential future rooms, lamps and tables.",
   // page 34
   "We had to spruce up Aashni's new room so I got her some lego flowers to go into the vase I made her over summer! These flowers are from our CHICKEN FIESTA feast weekend. We got half a chicken, a burrito, chips and dip, yucca and plantains! The next day we went to the farmers market at Bryan Park which is where these flowers are from. Next up was archery and pizza! To end the night we got drinks at Lolita's and ran back to the car through the rain.",
   // page 35
   "HOMECOMING!! Aashni back in the burg and she agreed to be my homecoming date. We did some hoco activities and also made chicken marsala for dinner. Best of all, almond coco loco for breakfast.",
   // page 36
-  "The following weeked was jam packed wiht activities!",
+  "The following weeked was jam packed with activities!",
   // page 37
-  "On a Friday we went to Howl-O-Scream at Busch Gardens! I was finally able to go on all the roller coasters at tha park; toured around by the best guide ever. ",
+  "On a Friday we went to Howl-O-Scream at Busch Gardens! I was finally able to go on all the roller coasters at tha park as well as being toured around by the best guide ever. After we drove up to Richmond so the next morning we could make it to Carter Mountain Orchard. We made sure to pick the best apples, had a pizza/hot dog lunch, a chinese for dinner and dressed up later to go out to the clerb!",
   // page 38
-  " ",
+  "I may or may not have flipped over on my bike one day, so I got Aashni flowers as an apology but also just because she deserves them. Later in November I went to Richmond where we went on a walk down Monumnet Ave, collecting some nice fall leaves and went to Casa Del Barco for dinner.",
   // page 39
-  " ",
+  "A wicked good cupcake for a wicked gorgeous girl! Over my break I made a journey down to NOVA to spend a night before Thanksgiving with the Manroas. The visit went quite well and Von was very pleased with this gift from me.",
   // page 40
-  " "
+  "CHRISTMAS! More like an early christmas I got Aashni a mix of gifts of a warm up snoopy, lip balm, ornament, little dish tray, calendar and snoopy pjs. She go me the most amazing snoopy pjs as well, a lint remover and new sweat pants I was in dire need of. We also made ramen soup!"
 ];
 
 // Initialize slideshow and rotation data
